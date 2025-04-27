@@ -17,19 +17,14 @@ If angle is 56.4999999°, then output 56°.
 
 # Solution
 
-import math
-
-# Degree Symbol
-DEGREE_SYMBOL = chr(176)
+from math import degrees, atan2
 
 # Input
-a = int(input())
-b = int(input())
+AB = float(input())
+BC = float(input())
 
 # Calculation
-angle_rad = math.atan2(b, a)
-angle_deg = math.degrees(angle_rad)
-rounded_angle = round(angle_deg)
+MBC = round(degrees(atan2(AB, BC)))
 
-# Output
-print(f"{rounded_angle}{DEGREE_SYMBOL}")
+print((str(MBC)), chr(176), sep='')
+

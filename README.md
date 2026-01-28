@@ -1,17 +1,18 @@
-# HackerRank Problem Solutions
-This repository contains my solutions to various challenges from HackerRank. I have solved problems across multiple domains,
-and this repository serves as a personal collection of the code I have written to improve my programming and problem-solving skills.
-The solutions are organized by problem types, and each problem is solved in Python. I aim to keep refining and expanding my knowledge of algorithms, data structures, and problem-solving techniques.
+# 🚀 HackerRank Solutions
 
-#Repository Structure
-Solutions: Each folder or file contains the solution to a specific problem, organized by problem-solving categories.
-Explanations: Each solution includes a detailed explanation of the approach and thought process used to solve the problem.
+![Language](https://img.shields.io/badge/language-Python%20%7C%20C%2B%2B%20%7C%20Java-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-success)
 
-#Problem Categories:
-This repository covers multiple categories.
+> *“First, solve the problem. Then, write the code.” – John Johnson*
 
-#Contributing
-Feel free to open an issue or pull request if you have suggestions, improvements, or new solutions.
+## 📖 Introduction
+Welcome to my repository of HackerRank solutions! This repo serves as a log of my practice with algorithms, data structures, and mathematics. The goal is not just to solve the problem, but to find the most efficient (Time & Space Complexity) solution.
 
-#License
-This repository is open-source and available under the MIT License.
+## 🛠️ Languages Used
+* **Python** (Primary)
+* **C++** (For performance-critical algorithms)
+* **SQL** (Database challenges)
+
+## 📂 Repository Structure
+The solutions are organized by domain to keep things tidy
